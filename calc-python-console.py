@@ -1,15 +1,3 @@
-def plus(x, y):
-    return x + y
-
-def minus(x, y):
-    return x - y
-
-def nasob(x, y):
-    return x * y
-
-def deleno(x, y):
-    return x / y
-
 print("[INFO] Vyberte pocetni operaci:")
 print("[INFO] 1 - Scitani   +")
 print("[INFO] 2 - Odcitani  -")
